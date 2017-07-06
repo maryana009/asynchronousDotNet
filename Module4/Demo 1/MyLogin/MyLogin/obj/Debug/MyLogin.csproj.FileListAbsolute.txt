@@ -1,0 +1,17 @@
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\bin\Debug\MyLogin.exe.config
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\bin\Debug\MyLogin.exe
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\bin\Debug\MyLogin.pdb
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\MyLogin.csprojResolveAssemblyReference.cache
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\UserControls\BusyIndicator.baml
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\MainWindow.g.cs
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\UserControls\BusyIndicator.g.cs
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\App.g.cs
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\MyLogin_MarkupCompile.cache
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\MyLogin_MarkupCompile.lref
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\MainWindow.baml
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\MyLogin.g.resources
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\MyLogin.Properties.Resources.resources
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\MyLogin.csproj.GenerateResource.Cache
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\MyLogin.exe
+C:\Projects\asynchronous-programming-dotnet-getting-started\Module4\Demo 1\MyLogin\MyLogin\obj\Debug\MyLogin.pdb
